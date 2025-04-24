@@ -1,0 +1,10 @@
+# Ignoră fișierul .env din backend
+backend/.env
+backend/dist/
+
+
+# Ignoră node_modules din ambele foldere
+frontend/node_modules/
+backend/node_modules/
+
+.DS_Store
